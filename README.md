@@ -1,5 +1,6 @@
-# Project Name
-> Outline a brief description of your project.
+# Melanoma-Detection-Assignment
+
+> The purpose of this project is to develop a Convolutional Neural Network (CNN) using TensorFlow. The model aims to accurately classify dermoscopic images of skin lesions as either Melanoma or Non-Melanoma. This classification can assist in early precautions and timely intervention.
 
 
 ## Table of Contents
