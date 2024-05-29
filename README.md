@@ -5,7 +5,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Steps Used ](#Step used)
+* [Steps Used ](#Step-used)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
