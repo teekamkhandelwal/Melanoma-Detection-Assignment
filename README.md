@@ -8,7 +8,7 @@
 * [Steps Used ](#steps-used)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Contacts](#contacts)
 
 
 
@@ -57,34 +57,47 @@ Training the final model and testing the model
 Verifying the model
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Model-1
+ ![image](https://github.com/teekamkhandelwal/Melanoma-Detection-Assignment/assets/72481400/92081b28-03fb-4074-826e-ff64702233e6)
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+- Model-2
+  ![image](https://github.com/teekamkhandelwal/Melanoma-Detection-Assignment/assets/72481400/61822c6c-c0b0-4af4-9b1e-0d4f36e87d68)
+
+  ![image](https://github.com/teekamkhandelwal/Melanoma-Detection-Assignment/assets/72481400/0b9920b9-aa8b-4dbd-8da9-450fabbf76df)
+
+
+-Model-3
+
+
+**Observation/Result-**
+- Accuracy on training data has increased by using Augmentor library
+- As the accuracy of the model increases, the loss decreases
+- The Model can be further improved by tuning the hyperparameter
+
+
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python
+- Tensorflow
+- Keras
+- Augmentor
+- Matplotlib
+- NumPy
+- Juipter notebook & Anconda navigator
+  
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@teekamkhandelwal] - feel free to contact me!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
+**Note:-**
+* **Data used for this project persent in data folder.**
+* **python programming file is persent in Python folder** 
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
