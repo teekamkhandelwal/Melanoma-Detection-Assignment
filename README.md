@@ -67,7 +67,8 @@ Verifying the model
   ![image](https://github.com/teekamkhandelwal/Melanoma-Detection-Assignment/assets/72481400/0b9920b9-aa8b-4dbd-8da9-450fabbf76df)
 
 
--Model-3
+-Model-3[final model]
+![image](https://github.com/teekamkhandelwal/Melanoma-Detection-Assignment/assets/72481400/c3d01702-8fd6-4652-a691-856f69ebd063)
 
 
 **Observation/Result-**
