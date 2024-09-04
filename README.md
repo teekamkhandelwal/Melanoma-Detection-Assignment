@@ -58,17 +58,19 @@ Verifying the model
 
 ## Conclusions
 - Model-1
- ![image](https://github.com/teekamkhandelwal/Melanoma-Detection-Assignment/assets/72481400/92081b28-03fb-4074-826e-ff64702233e6)
 
+![image](https://github.com/user-attachments/assets/4e03b88e-cd22-46be-9634-689b31acab3b)
 
 - Model-2
-  ![image](https://github.com/teekamkhandelwal/Melanoma-Detection-Assignment/assets/72481400/61822c6c-c0b0-4af4-9b1e-0d4f36e87d68)
+![image](https://github.com/user-attachments/assets/1422a8a2-1f18-422c-ba9b-0e65adfd5e47)
 
-  ![image](https://github.com/teekamkhandelwal/Melanoma-Detection-Assignment/assets/72481400/0b9920b9-aa8b-4dbd-8da9-450fabbf76df)
+
+![image](https://github.com/user-attachments/assets/a6b5fab2-eebf-4575-b752-49de29e99474)
 
 
 -Model-3[final model]
-![image](https://github.com/teekamkhandelwal/Melanoma-Detection-Assignment/assets/72481400/c3d01702-8fd6-4652-a691-856f69ebd063)
+
+![image](https://github.com/user-attachments/assets/0f6c9213-a2eb-4a16-bd56-2346af7576dc)
 
 
 **Observation/Result-**
